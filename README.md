@@ -1,3 +1,7 @@
 # ProyectoQLearningUnity
 Proyecto Universitario
-RAWR
+
+INFORMACIÓN:
+- ola
+- adio
+- jelou
